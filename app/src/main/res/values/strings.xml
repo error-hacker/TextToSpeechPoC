@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TextToSpeechPoC</string>
+    <string name="text_to_speech">Text To Speech</string>
+    <string name="speech_to_text">Speech To Text</string>
+    <string name="result_will_appear_here">Result will appear here</string>
+</resources>
